@@ -11,8 +11,8 @@
 - Node JS
 - Yes sometimes the scary JAVA too.
 <br/>
-<p align="center">
-        <img src="https://tryhackme-badges.s3.amazonaws.com/adnan007d.png" alt="TryHackMe">
-</p>
+
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=adnan007d&theme=dracula)](https://git.io/streak-stats)
 
 ### I am interested in programming and Cyber Security. You can contact me if you want to collaborate 🐱
